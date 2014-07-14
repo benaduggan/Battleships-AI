@@ -1,0 +1,71 @@
+======================================================
+Battleships Board + AI -- Grading Guidelines
+======================================================
+
+Name:
+
+Date:
+
+Grader:
+
+======================================================
+FUNCTIONALITY REQUIREMENTS
+======================================================
+Program Meets Requirements
+------------------------------------------------------
+* Board correctly reports owner and opponent  ____ / 2
+  views of board.
+------------------------------------------------------
+* Board correctly places ships                ____ / 1
+------------------------------------------------------
+* Board correctly reports shot results        ____ / 1
+------------------------------------------------------
+* Board correctly reports wins                ____ / 1
+------------------------------------------------------
+* AI wins on a 10x10 board                    ____ / 2
+------------------------------------------------------
+* AI wins on a 9x9 board                      ____ / 2
+------------------------------------------------------
+* AI wins in 60 or fewer shots on 10x10       ____ / 1
+------------------------------------------------------
+* 1pt Bonus for good shooting average < 47    ____ / ?
+======================================================
+REQUIREMENTS TOTAL                            _____ /10+
+
+
+======================================================
+SUBTRACT POINTS FOR:
+------------------------------------------------------
+* Points removed for various terrible things:
+  -                                           ____ / ?
+------------------------------------------------------
+SUBTRACTIONS                                 _____ /-?
+
+======================================================
+Requirements - subtractions                  ____ / 10
+
+
+======================================================
+CODE STYLE/QUALITY REQUIREMENTS
+======================================================
+* Each class has at 3+ functions              ____ / 2
+* Each function has a meaniful header         ____ / 1
+* Each file has a meaningful header           ____ / 1
+* Sensible variable names                     ____ / 1
+* Used doxygen function headers               ____ / 1
+* Good/reasonable use of comments             ____ / 1
+* Good use of white space (indentation, 
+                           blank lines, etc.) ____ / 2
+* Consistent formatting of statements         ____ / 1
+
+======================================================
+Requirements                                 ____ / 10
+
+Total points = ______ / 10 (program behavior) * ______ / 10 (style) 
+
+             = _________ / 100
+
+
+Comments:
+
+
